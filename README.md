@@ -4,6 +4,9 @@ Langualizer is a language teaching software, which helps you memorize and learn 
 
 ![alt tag](https://github.com/Arthil/langualizer_desktop/blob/master/images/langualizer_start_with_qt.png)
 ![alt tag](https://github.com/Arthil/langualizer_desktop/blob/master/images/langualizer_quiz.png)
+
+
 Langualizer was designed to be extremely flexible so that the user can train exactly the words the user needs to.
+
 ![alt tag](https://github.com/Arthil/langualizer_desktop/blob/master/images/langualizer_settings.png)
 ![alt tag](https://github.com/Arthil/langualizer_desktop/blob/master/images/langualizer_add_word.png)
