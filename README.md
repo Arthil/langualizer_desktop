@@ -1,6 +1,6 @@
 # Langualizer
 
-Langualizer is a language teaching software (WIP), which helps you memorize and learn words in different languages. Langualizer gives the user the tools to add custom words to give the ability to learn exactly the words that need to be learned. After a vocabulary has been added, the user can make quizes or exams to train the added words.
+Langualizer is a language teaching software (WIP), which helps you memorize and learn words in different languages. Langualizer gives the user the tools to add custom words to give the ability to learn exactly the words that need to be learned. After a vocabulary has been added, the user can make quizes or exams to train the added words. The software works with any language and can translate between any language as long as a translation is provided.
 
 The software is written completely in C++ using a Qt5 framework. The vocabulary used Langualizer is stored in a SQL database. 
 
