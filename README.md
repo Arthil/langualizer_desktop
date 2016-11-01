@@ -1,8 +1,10 @@
 # Langualizer
 
-Langualizer is a language teaching software, which helps you memorize and learn words in different languages. Langualizer gives the user the tools to add custom words to give the ability to learn exactly the words that need to be learned. After a vocabulary has been added, the user can make quizes or exams to train the added words.
+Langualizer is a language teaching software, which helps you memorize and learn words in different languages. Langualizer gives the user the tools to add custom words to give the ability to learn exactly the words that need to be learned. After a vocabulary has been added, the user can make quizes or exams to train the added words. The software was initially designed to have three modes for quizing:
+1. Relax mode - Infinite amount of questions to train
+2. 
 
-The software is written completely in C++ using a Qt5 framework. The vocabulary used by Langualizer is stored in a SQL database. 
+The software is written completely in C++ using a Qt5 framework. The vocabulary used Langualizer is stored in a SQL database. 
 
 ---This desktop version is a prototype of a web based version---
 
