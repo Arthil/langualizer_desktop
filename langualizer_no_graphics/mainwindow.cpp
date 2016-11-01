@@ -69,7 +69,7 @@ void MainWindow::init_db()
     db->setHostName("localhost");
     db->setDatabaseName("langualizer");
     db->setUserName("root");
-    db->setPassword("xz99wydpmkj9ry");
+    db->setPassword("");
 
     qry = new QSqlQuery();
 
